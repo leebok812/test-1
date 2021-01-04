@@ -54,23 +54,23 @@
 - 협업하기
 
 
--원격 저장소 만들기
-  -origin 연결하기
-  -push
--pull vs fetch
-  -pull
-  -fetch
--협업하기
+- 원격 저장소 만들기
+  - origin 연결하기
+  - push
+- pull vs fetch
+  - pull
+  - fetch
+- 협업하기
 
 
 
 + 원격 저장소 만들기
-  -origin 연결하기
-  -push
-  +pull vs fetch
-    *pull
-    fetch
-  +협업하기
+  - origin 연결하기
+  - push
+  + pull vs fetch
+    * pull
+    * fetch
+  + 협업하기
   
   
   **GitGub**는 원격 저장소를 제공하~~는 서비스 이~~기 때문에 
