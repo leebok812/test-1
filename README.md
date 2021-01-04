@@ -42,6 +42,8 @@
 
 5. 협업하기
 
+---
+
 
 - 원격저장소만들기
 
@@ -54,6 +56,9 @@
 - 협업하기
 
 
+---
+
+
 - 원격 저장소 만들기
   - origin 연결하기
   - push
@@ -62,6 +67,8 @@
   - fetch
 - 협업하기
 
+
+---
 
 
 + 원격 저장소 만들기
@@ -73,6 +80,8 @@
   + 협업하기
   
   
+  ---
+  
   **GitGub**는 원격 저장소를 제공하~~는 서비스 이~~기 때문에 
   
   
@@ -82,13 +91,19 @@
   온라인 상에서 Git의 ***버전 관리 기능***을 사용할 수 있습니다.
   
   
+  ---
+  
   >The information manager from hell.
   >> git means "global information tracker"
   
   
   
+  ---
+  
   한 줄자리 소스 코드는 `function add(x,y) {return x+y;} `처럼 사용합니다.
   
+  
+  ---
   
   소스 코드 삽입하기
   
@@ -102,6 +117,8 @@
   코드 입력 끝!
   
   
+  ---
+  
   <http://www.eayspub.co.kr>
   
   [이지스퍼블리싱](http://www.easypub.co.kr)
@@ -110,8 +127,12 @@
   
   
   
+  ---
+  
   ![이미지 연습](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png) 
   
   
   ![오렌지](./images/orange.jpg)
   
+  
+  ---
